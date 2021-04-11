@@ -53079,7 +53079,7 @@ a1=a5.W(a1).f
 o=H.a([P.ml(65,20,192,1),P.ml(18,18,18,1)],t.bk)
 n=X.Ou(0.3,0.3)
 m=T.Ce(H.a([L.fe("Good evening",g,A.dG(g,g,g,g,g,g,g,g,g,g,g,28,g,C.aa,g,g,!0,g,g,g,g,g,g,g),g,g),T.a3q(M.cq(g,g,g,g,g,g,g,g),1),B.Pj(L.mK(C.n3,g,28),new V.Zc()),B.Pj(L.mK(C.n8,g,28),new V.Zd())],p),C.bk,C.aQ)
-l=M.cq(g,B.a3I(H.a([new O.eX("Liked Songs","","images/liked_songs.jpeg",g),new O.eX("Daily Mix 1","https://dailymix-images.scdn.co/v2/img/de9e5216b1f1dab4a23c3255e825fbacfe283e5a/1/en/large","",g),new O.eX("Daily Mix 2","https://ph-files.imgix.net/cbbf111b-fccf-48a7-8505-bedc7b5d5272?auto=format&auto=compress&codec=mozjpeg&cs=strip","",g),new O.eX("Daily Mix 3","images/dm3.jpg","",g),new O.eX("Daily Mix 4",f,"",g),new O.eX("Daily Mix 5",f,"",g),new O.eX("Daily Mix 6",f,"",g),new O.eX("Daily Mix 7",f,"",g)],p),new B.tS(100,8,8,0.36363636363636365),C.aI,C.k),g,g,200,g,g,g)
+l=M.cq(g,B.a3I(H.a([new O.eX("Liked Songs","","images/liked_songs.jpeg",g),new O.eX("Daily Mix 1","https://dailymix-images.scdn.co/v2/img/de9e5216b1f1dab4a23c3255e825fbacfe283e5a/1/en/large","",g),new O.eX("Daily Mix 2","https://ph-files.imgix.net/cbbf111b-fccf-48a7-8505-bedc7b5d5272?auto=format&auto=compress&codec=mozjpeg&cs=strip","",g),new O.eX("Daily Mix 3","","images/dm3.jpg",g),new O.eX("Daily Mix 4",f,"",g),new O.eX("Daily Mix 5",f,"",g),new O.eX("Daily Mix 6",f,"",g),new O.eX("Daily Mix 7",f,"",g)],p),new B.tS(100,8,8,0.36363636363636365),C.aI,C.k),g,g,200,g,g,g)
 k=T.M1(K.md(50),U.zI("https://i.scdn.co/image/1fc2f537d678d701d7d143a8fd4f0c2f29fbde22",70))
 j=T.e3(g,g,10)
 i=C.Y.i(0,500)
